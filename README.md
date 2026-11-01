@@ -1,1 +1,1 @@
-# summer-skill-builders.github.io
+# skill-builders.github.io
